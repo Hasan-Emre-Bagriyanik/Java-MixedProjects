@@ -1,0 +1,18 @@
+İdman Programı
+Purbee sayısı: 50
+Situp sayısı: 50
+Pushup sayısı: 50
+Squat sayısı: 50
+1.işlem --------------->  Hareket: purbee sayı: 50
+2.işlem --------------->  Hareket: pushup sayı: 50
+3.işlem --------------->  Hareket: situp sayı: 50
+4.işlem --------------->  Hareket: squat sayı: 50
+İdman Programı
+Purbee sayısı: 50
+Situp sayısı: 50
+Pushup sayısı: 50
+Squat sayısı: 50
+1.işlem --------------->  Hareket: purbee sayı: 50
+2.işlem --------------->  Hareket: pushup sayı: 50
+3.işlem --------------->  Hareket: situp sayı: 50
+4.işlem --------------->  Hareket: squat sayı: 50

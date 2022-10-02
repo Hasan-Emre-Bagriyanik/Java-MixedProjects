@@ -1,0 +1,9 @@
+İdman Programı
+Purbee sayısı: 10
+Situp sayısı: 10
+Pushup sayısı: 10
+Squat sayısı: 10
+1.işlem --------------->  Hareket: purbee sayı: 10
+2.işlem --------------->  Hareket: situp sayı: 10
+3.işlem --------------->  Hareket: pushup sayı: 10
+4.işlem --------------->  Hareket: squat sayı: 10
