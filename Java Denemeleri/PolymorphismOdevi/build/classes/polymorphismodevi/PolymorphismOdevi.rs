@@ -1,0 +1,5 @@
+polymorphismodevi.Kedi
+polymorphismodevi.Kus
+polymorphismodevi.Kopek
+polymorphismodevi.PolymorphismOdevi
+polymorphismodevi.Hayvan
